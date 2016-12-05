@@ -1,5 +1,5 @@
 {
-    "name": "latrell/rongcloud",
+    "name": "latrell-contrib/rongcloud",
     "description": "融云服务端SDK在Laravel的封装包。",
     "keywords": ["L5", "Laravel 5", "Laravel", "RongCloud", "RongCloud SDK"],
     "license": "MIT",
